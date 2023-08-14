@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ApplicationRefreshed" xml:space="preserve">
+    <value>Обновлено все</value>
+  </data>
+  <data name="ApplicationRunEnded" xml:space="preserve">
+    <value>Программа завершила свои действия. Запустите ее заново</value>
+  </data>
+  <data name="ErrorPrefix" xml:space="preserve">
+    <value>Ошибка:</value>
+  </data>
+  <data name="Error_FirstRunNotExecuted" xml:space="preserve">
+    <value>Сначала нужно произвести 1 проход</value>
+  </data>
+  <data name="Error_InputFileArgument" xml:space="preserve">
+    <value>Недопустимый ключ. Должен быть -INPUT_FILE</value>
+  </data>
+  <data name="Error_InputFileNotFound" xml:space="preserve">
+    <value>Не удалось загрузить данные с файла. Возможно путь к файлу указан неверно</value>
+  </data>
+  <data name="Error_OutputFileArgument" xml:space="preserve">
+    <value>Недопустимый ключ. Должен быть -OUTPUT_FILE</value>
+  </data>
+  <data name="Error_OutputFileNotFound" xml:space="preserve">
+    <value>Запись не успешна, возможно не задан или не найден файл</value>
+  </data>
+  <data name="Error_WrongArgumentsCount" xml:space="preserve">
+    <value>Неверное количество аргументов</value>
+  </data>
+  <data name="Error_WrongCommandLineArguments" xml:space="preserve">
+    <value>Некорректное использование аргументов командной строки</value>
+  </data>
+  <data name="FirstRunEnded" xml:space="preserve">
+    <value>1 проход завершен</value>
+  </data>
+  <data name="Help_AllowedKeys" xml:space="preserve">
+    <value>Доступные ключи</value>
+  </data>
+  <data name="Help_Footer" xml:space="preserve">
+    <value>Если путь к файлу имеет пробелы - следует заключить его в кавычки</value>
+  </data>
+  <data name="Help_HelpKey" xml:space="preserve">
+    <value>Вызов данной справки</value>
+  </data>
+  <data name="Help_InputFileKey" xml:space="preserve">
+    <value>Ключ для указания пути к файлу с исходным текстом</value>
+  </data>
+  <data name="Help_OutputFileKey" xml:space="preserve">
+    <value>Ключ для указания пути сохранения результирующего ассемблерного кода</value>
+  </data>
+  <data name="Help_Title" xml:space="preserve">
+    <value>Справка по данной программе</value>
+  </data>
+  <data name="Menu_Exit" xml:space="preserve">
+    <value>Выход</value>
+  </data>
+  <data name="Menu_FirstRun" xml:space="preserve">
+    <value>Выполнить 1 проход</value>
+  </data>
+  <data name="Menu_NextStep" xml:space="preserve">
+    <value>Шаг вперед</value>
+  </data>
+  <data name="Menu_PrintAssemblerCode" xml:space="preserve">
+    <value>Распечатать Ассемблерный код</value>
+  </data>
+  <data name="Menu_PrintMacrosTable" xml:space="preserve">
+    <value>Распечатать ТМО</value>
+  </data>
+  <data name="Menu_PrintSourceCode" xml:space="preserve">
+    <value>Распечатать Исходный код</value>
+  </data>
+  <data name="Menu_PrintVariablesTable" xml:space="preserve">
+    <value>Распечатать Таблицу глобальных переменных</value>
+  </data>
+  <data name="Menu_Refresh" xml:space="preserve">
+    <value>Начать заново</value>
+  </data>
+  <data name="Menu_SaveAssemblerCodeIntoFile" xml:space="preserve">
+    <value>Распечатать Ассемблерный код в файл</value>
+  </data>
+  <data name="Menu_SecondRun" xml:space="preserve">
+    <value>Выполнить 2 проход</value>
+  </data>
+  <data name="Prefix_ErrorInstring" xml:space="preserve">
+    <value>Ошибка в строке</value>
+  </data>
+  <data name="Print_AssemblerCode" xml:space="preserve">
+    <value>Ассемблерный код</value>
+  </data>
+  <data name="Print_MacrosTable" xml:space="preserve">
+    <value>ТМО</value>
+  </data>
+  <data name="Print_SourceCode" xml:space="preserve">
+    <value>Исходный код</value>
+  </data>
+  <data name="Print_VariablesTable" xml:space="preserve">
+    <value>Таблица глобальных переменных</value>
+  </data>
+  <data name="SaveIntoFileSuccess" xml:space="preserve">
+    <value>Запись успешна</value>
+  </data>
+  <data name="SecondRunEnded" xml:space="preserve">
+    <value>2 проход завершен. Перезапустите программу</value>
+  </data>
+  <data name="StepExecuted" xml:space="preserve">
+    <value>Очередной шаг выполнен</value>
+  </data>
+  <data name="StepModeActivated" xml:space="preserve">
+    <value>Раз уж начали выполнять прогу по частям, а не по шагам, так и нечего сюда лезть</value>
+  </data>
+  <data name="WrongKeyEntered" xml:space="preserve">
+    <value>Введен неверный ключ</value>
+  </data>
+</root>

@@ -1,0 +1,129 @@
+F:\Work\SP 51\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe.config
+F:\Work\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Interface.MainForm.resources
+F:\Work\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csproj.GenerateResource.Cache
+F:\Work\SP 51\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe
+F:\Work\SP 51\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.pdb
+F:\Work\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.exe
+F:\Work\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.pdb
+F:\Work\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.Directives.resources
+C:\Users\GOPbIHbI4\Desktop\Shit\Projects\SP 51\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe.config
+C:\Users\GOPbIHbI4\Desktop\Shit\Projects\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.exe
+C:\Users\GOPbIHbI4\Desktop\Shit\Projects\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.pdb
+C:\Users\GOPbIHbI4\Desktop\Shit\Projects\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Interface.MainForm.resources
+C:\Users\GOPbIHbI4\Desktop\Shit\Projects\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ConsoleMessages.resources
+C:\Users\GOPbIHbI4\Desktop\Shit\Projects\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.Directives.resources
+C:\Users\GOPbIHbI4\Desktop\Shit\Projects\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ProcessorErrorMessages.resources
+C:\Users\GOPbIHbI4\Desktop\Shit\Projects\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csproj.GenerateResource.Cache
+C:\Users\GOPbIHbI4\Desktop\Shit\Projects\SP 51\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe
+C:\Users\GOPbIHbI4\Desktop\Shit\Projects\SP 51\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.pdb
+C:\Users\GOPbIHbI4\Desktop\Shit\Projects\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csprojResolveAssemblyReference.cache
+F:\Work\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ConsoleMessages.resources
+F:\Work\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ProcessorErrorMessages.resources
+F:\Work\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csprojResolveAssemblyReference.cache
+C:\Users\GOPbIHbI4_Laptop\Downloads\SP 51\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe.config
+C:\Users\GOPbIHbI4_Laptop\Downloads\SP 51\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe
+C:\Users\GOPbIHbI4_Laptop\Downloads\SP 51\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.pdb
+C:\Users\GOPbIHbI4_Laptop\Downloads\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csprojAssemblyReference.cache
+C:\Users\GOPbIHbI4_Laptop\Downloads\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Interface.MainForm.resources
+C:\Users\GOPbIHbI4_Laptop\Downloads\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ConsoleMessages.resources
+C:\Users\GOPbIHbI4_Laptop\Downloads\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.Directives.resources
+C:\Users\GOPbIHbI4_Laptop\Downloads\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ProcessorErrorMessages.resources
+C:\Users\GOPbIHbI4_Laptop\Downloads\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csproj.GenerateResource.cache
+C:\Users\GOPbIHbI4_Laptop\Downloads\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csproj.CoreCompileInputs.cache
+C:\Users\GOPbIHbI4_Laptop\Downloads\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.exe
+C:\Users\GOPbIHbI4_Laptop\Downloads\SP 51\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.pdb
+C:\Users\GOPbIHbI4_Laptop\Downloads\Вариант 50\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe.config
+C:\Users\GOPbIHbI4_Laptop\Downloads\Вариант 50\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe
+C:\Users\GOPbIHbI4_Laptop\Downloads\Вариант 50\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.pdb
+C:\Users\GOPbIHbI4_Laptop\Downloads\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csprojAssemblyReference.cache
+C:\Users\GOPbIHbI4_Laptop\Downloads\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Interface.MainForm.resources
+C:\Users\GOPbIHbI4_Laptop\Downloads\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ConsoleMessages.resources
+C:\Users\GOPbIHbI4_Laptop\Downloads\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.Directives.resources
+C:\Users\GOPbIHbI4_Laptop\Downloads\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ProcessorErrorMessages.resources
+C:\Users\GOPbIHbI4_Laptop\Downloads\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csproj.GenerateResource.cache
+C:\Users\GOPbIHbI4_Laptop\Downloads\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.exe
+C:\Users\GOPbIHbI4_Laptop\Downloads\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.pdb
+C:\Users\FakhretdinovaAI\Desktop\Variant_50\Вариант 50\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe.config
+C:\Users\FakhretdinovaAI\Desktop\Variant_50\Вариант 50\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe
+C:\Users\FakhretdinovaAI\Desktop\Variant_50\Вариант 50\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.pdb
+C:\Users\FakhretdinovaAI\Desktop\Variant_50\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csprojAssemblyReference.cache
+C:\Users\FakhretdinovaAI\Desktop\Variant_50\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Interface.MainForm.resources
+C:\Users\FakhretdinovaAI\Desktop\Variant_50\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ConsoleMessages.resources
+C:\Users\FakhretdinovaAI\Desktop\Variant_50\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.Directives.resources
+C:\Users\FakhretdinovaAI\Desktop\Variant_50\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ProcessorErrorMessages.resources
+C:\Users\FakhretdinovaAI\Desktop\Variant_50\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csproj.GenerateResource.cache
+C:\Users\FakhretdinovaAI\Desktop\Variant_50\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.exe
+C:\Users\FakhretdinovaAI\Desktop\Variant_50\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.pdb
+C:\Projects\Sandbox\Вариант 50\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe.config
+C:\Projects\Sandbox\Вариант 50\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe
+C:\Projects\Sandbox\Вариант 50\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.pdb
+C:\Projects\Sandbox\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csprojAssemblyReference.cache
+C:\Projects\Sandbox\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Interface.MainForm.resources
+C:\Projects\Sandbox\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ConsoleMessages.resources
+C:\Projects\Sandbox\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.Directives.resources
+C:\Projects\Sandbox\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ProcessorErrorMessages.resources
+C:\Projects\Sandbox\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csproj.GenerateResource.cache
+C:\Projects\Sandbox\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.exe
+C:\Projects\Sandbox\Вариант 50\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.pdb
+C:\Projects\Sandbox\MacroProcessor49\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe.config
+C:\Projects\Sandbox\MacroProcessor49\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe
+C:\Projects\Sandbox\MacroProcessor49\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.pdb
+C:\Projects\Sandbox\MacroProcessor49\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csprojAssemblyReference.cache
+C:\Projects\Sandbox\MacroProcessor49\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Interface.MainForm.resources
+C:\Projects\Sandbox\MacroProcessor49\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ConsoleMessages.resources
+C:\Projects\Sandbox\MacroProcessor49\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.Directives.resources
+C:\Projects\Sandbox\MacroProcessor49\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ProcessorErrorMessages.resources
+C:\Projects\Sandbox\MacroProcessor49\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csproj.GenerateResource.cache
+C:\Projects\Sandbox\MacroProcessor49\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.exe
+C:\Projects\Sandbox\MacroProcessor49\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.pdb
+C:\Projects\Sandbox\MacroProcessor59\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe.config
+C:\Projects\Sandbox\MacroProcessor59\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe
+C:\Projects\Sandbox\MacroProcessor59\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.pdb
+C:\Projects\Sandbox\MacroProcessor59\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csprojAssemblyReference.cache
+C:\Projects\Sandbox\MacroProcessor59\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Interface.MainForm.resources
+C:\Projects\Sandbox\MacroProcessor59\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ConsoleMessages.resources
+C:\Projects\Sandbox\MacroProcessor59\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.Directives.resources
+C:\Projects\Sandbox\MacroProcessor59\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ProcessorErrorMessages.resources
+C:\Projects\Sandbox\MacroProcessor59\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csproj.GenerateResource.cache
+C:\Projects\Sandbox\MacroProcessor59\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.exe
+C:\Projects\Sandbox\MacroProcessor59\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.pdb
+C:\Projects\Sandbox\MacroProcessor59\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csproj.CoreCompileInputs.cache
+C:\Users\rail2\Desktop\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe.config
+C:\Users\rail2\Desktop\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.exe
+C:\Users\rail2\Desktop\SystemSoftware\SystemSoftware\bin\Debug\SystemSoftware.pdb
+C:\Users\rail2\Desktop\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csproj.AssemblyReference.cache
+C:\Users\rail2\Desktop\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\rail2\Desktop\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Interface.MainForm.resources
+C:\Users\rail2\Desktop\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ConsoleMessages.resources
+C:\Users\rail2\Desktop\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.Directives.resources
+C:\Users\rail2\Desktop\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.Resources.ProcessorErrorMessages.resources
+C:\Users\rail2\Desktop\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csproj.GenerateResource.cache
+C:\Users\rail2\Desktop\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.csproj.CoreCompileInputs.cache
+C:\Users\rail2\Desktop\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.exe
+C:\Users\rail2\Desktop\SystemSoftware\SystemSoftware\obj\Debug\SystemSoftware.pdb
+C:\Users\rail2\Downloads\Irek\SystemSoftware\bin\Debug\SystemSoftware.exe.config
+C:\Users\rail2\Downloads\Irek\SystemSoftware\bin\Debug\SystemSoftware.exe
+C:\Users\rail2\Downloads\Irek\SystemSoftware\bin\Debug\SystemSoftware.pdb
+C:\Users\rail2\Downloads\Irek\SystemSoftware\obj\Debug\SystemSoftware.csproj.AssemblyReference.cache
+C:\Users\rail2\Downloads\Irek\SystemSoftware\obj\Debug\SystemSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\rail2\Downloads\Irek\SystemSoftware\obj\Debug\SystemSoftware.Interface.MainForm.resources
+C:\Users\rail2\Downloads\Irek\SystemSoftware\obj\Debug\SystemSoftware.Resources.ConsoleMessages.resources
+C:\Users\rail2\Downloads\Irek\SystemSoftware\obj\Debug\SystemSoftware.Resources.Directives.resources
+C:\Users\rail2\Downloads\Irek\SystemSoftware\obj\Debug\SystemSoftware.Resources.ProcessorErrorMessages.resources
+C:\Users\rail2\Downloads\Irek\SystemSoftware\obj\Debug\SystemSoftware.csproj.GenerateResource.cache
+C:\Users\rail2\Downloads\Irek\SystemSoftware\obj\Debug\SystemSoftware.csproj.CoreCompileInputs.cache
+C:\Users\rail2\Downloads\Irek\SystemSoftware\obj\Debug\SystemSoftware.exe
+C:\Users\rail2\Downloads\Irek\SystemSoftware\obj\Debug\SystemSoftware.pdb
+C:\Users\rail2\source\repos\Curs61\SystemSoftware\bin\Debug\SystemSoftware.exe.config
+C:\Users\rail2\source\repos\Curs61\SystemSoftware\bin\Debug\SystemSoftware.exe
+C:\Users\rail2\source\repos\Curs61\SystemSoftware\bin\Debug\SystemSoftware.pdb
+C:\Users\rail2\source\repos\Curs61\SystemSoftware\obj\Debug\SystemSoftware.csproj.AssemblyReference.cache
+C:\Users\rail2\source\repos\Curs61\SystemSoftware\obj\Debug\SystemSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\rail2\source\repos\Curs61\SystemSoftware\obj\Debug\SystemSoftware.Interface.MainForm.resources
+C:\Users\rail2\source\repos\Curs61\SystemSoftware\obj\Debug\SystemSoftware.Resources.ConsoleMessages.resources
+C:\Users\rail2\source\repos\Curs61\SystemSoftware\obj\Debug\SystemSoftware.Resources.Directives.resources
+C:\Users\rail2\source\repos\Curs61\SystemSoftware\obj\Debug\SystemSoftware.Resources.ProcessorErrorMessages.resources
+C:\Users\rail2\source\repos\Curs61\SystemSoftware\obj\Debug\SystemSoftware.csproj.GenerateResource.cache
+C:\Users\rail2\source\repos\Curs61\SystemSoftware\obj\Debug\SystemSoftware.csproj.CoreCompileInputs.cache
+C:\Users\rail2\source\repos\Curs61\SystemSoftware\obj\Debug\SystemSoftware.exe
+C:\Users\rail2\source\repos\Curs61\SystemSoftware\obj\Debug\SystemSoftware.pdb

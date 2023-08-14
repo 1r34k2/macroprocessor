@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="EmptyVariableInComparison" xml:space="preserve">
+    <value>Не инициализированная переменная является частью условия оператора сравнения</value>
+  </data>
+  <data name="ExtraColonInLine" xml:space="preserve">
+    <value>Слишком много двоеточий в строке</value>
+  </data>
+  <data name="IncIncorrectOperandsCount" xml:space="preserve">
+    <value>Некорректное количество операндов в директиве инкремента значения переменной</value>
+  </data>
+  <data name="IncorrectMacroMendCount" xml:space="preserve">
+    <value>Некорректное количество директив MACRO и MEND</value>
+  </data>
+  <data name="IncorrectMacroName" xml:space="preserve">
+    <value>Имя макроса некорректно</value>
+  </data>
+  <data name="IncorrectVariableName" xml:space="preserve">
+    <value>Некорректное имя переменной</value>
+  </data>
+  <data name="IncorrectVariableValue" xml:space="preserve">
+    <value>Некорректное значение переменной</value>
+  </data>
+  <data name="IncWithEmptyVariable" xml:space="preserve">
+    <value>Переменной не присвоено значение</value>
+  </data>
+  <data name="IncWithLabel" xml:space="preserve">
+    <value>В директиве инкремента переменной метки не должно быть</value>
+  </data>
+  <data name="InfiniteLoop" xml:space="preserve">
+    <value>Обнаружен бесконечный цикл</value>
+  </data>
+  <data name="LabelInMacro" xml:space="preserve">
+    <value>Метки внутри макроса запрещены</value>
+  </data>
+  <data name="LabesInMacroDefinition" xml:space="preserve">
+    <value>При объявлении макроса не должно быть меток</value>
+  </data>
+  <data name="MacroCallWithLabel" xml:space="preserve">
+    <value>При макровызове макроса не должно быть меток</value>
+  </data>
+  <data name="MacroCallWithParams" xml:space="preserve">
+    <value>Вызов макроса не должен содержать параметров</value>
+  </data>
+  <data name="MacroMendCount" xml:space="preserve">
+    <value>Некорректное количество директив MACRO и MEND</value>
+  </data>
+  <data name="MacrosAleradyExists" xml:space="preserve">
+    <value>Макрос уже описан</value>
+  </data>
+  <data name="MacroScopeGlobal" xml:space="preserve">
+    <value>Макрос не входит в область видимости основной программы</value>
+  </data>
+  <data name="MacroScopeLocal" xml:space="preserve">
+    <value>Макрос не входит в область видимости макроса, из которого идет макровызов</value>
+  </data>
+  <data name="MacrosWithParameters" xml:space="preserve">
+    <value>У макроса не должно быть параметров</value>
+  </data>
+  <data name="MendWithLabel" xml:space="preserve">
+    <value>У директивы MEND не должно быть метки</value>
+  </data>
+  <data name="MendWithParameters" xml:space="preserve">
+    <value>У директивы MEND не должно быть параметров</value>
+  </data>
+  <data name="NameIsAleradyUsed" xml:space="preserve">
+    <value>Имя уже используется в качестве переменной, имени макроса или параметра макроса</value>
+  </data>
+  <data name="NullVariable" xml:space="preserve">
+    <value>Переменная не инициализирована</value>
+  </data>
+  <data name="Recursion" xml:space="preserve">
+    <value>Перекрестные ссылки и рекурсия запрещены</value>
+  </data>
+  <data name="SelfMacroCall" xml:space="preserve">
+    <value>Макрос не может быть вызван из себя</value>
+  </data>
+  <data name="SetIncorrectOperands" xml:space="preserve">
+    <value>Некорректное количество операндов в директиве задания переменной значения</value>
+  </data>
+  <data name="SetWithLabel" xml:space="preserve">
+    <value>В директиве задания значения переменной метки не должно быть</value>
+  </data>
+  <data name="UndefinedComparisonPart" xml:space="preserve">
+    <value>Часть условия оператора сравнения не переменная и не число</value>
+  </data>
+  <data name="UndefinedComparisonSign" xml:space="preserve">
+    <value>Неопознан знак сравнения</value>
+  </data>
+  <data name="UndefinedMacroCall" xml:space="preserve">
+    <value>Вызов неописанного макроса</value>
+  </data>
+  <data name="UseOnlyInsideMacro_1" xml:space="preserve">
+    <value>Использование директивы</value>
+  </data>
+  <data name="UseOnlyInsideMacro_2" xml:space="preserve">
+    <value>возможно только в теле макроса</value>
+  </data>
+  <data name="VariableAleradyExists" xml:space="preserve">
+    <value>Повторное задание переменной</value>
+  </data>
+  <data name="VariableDefinitionWithLabel" xml:space="preserve">
+    <value>В описании переменной метки не нужны</value>
+  </data>
+  <data name="VariableIncorrectOperandsCount" xml:space="preserve">
+    <value>Некорректное количество операндов в директиве объявления переменной</value>
+  </data>
+  <data name="VariableIsLoopCounter" xml:space="preserve">
+    <value>Переменная используется как счетчик в цикле</value>
+  </data>
+  <data name="ErrorInLinePrefix" xml:space="preserve">
+    <value>Ошибка в строке</value>
+  </data>
+  <data name="AgoLabelNotFound" xml:space="preserve">
+    <value>Ошибка использования директивы AGO или AIF. Метка в пределах макроса не найдена</value>
+  </data>
+  <data name="DirectiveMissed" xml:space="preserve">
+    <value>Отсутствует директива</value>
+  </data>
+  <data name="DirectiveWithLabel_1" xml:space="preserve">
+    <value>При директиве</value>
+  </data>
+  <data name="DirectiveWithLabel_2" xml:space="preserve">
+    <value>метки быть не должно</value>
+  </data>
+  <data name="DirectiveWithoutLabelToGo_1" xml:space="preserve">
+    <value>При директиве</value>
+  </data>
+  <data name="DirectiveWithoutLabelToGo_2" xml:space="preserve">
+    <value>отсутствует метка для ссылки</value>
+  </data>
+  <data name="DuplicateLabelInMacro" xml:space="preserve">
+    <value>Повторное описание метки в макросе</value>
+  </data>
+  <data name="ExtraBranch" xml:space="preserve">
+    <value>Лишняя ветка</value>
+  </data>
+  <data name="IncorrectDirectiveOperands" xml:space="preserve">
+    <value>Некорректное использование операндов директивы</value>
+  </data>
+  <data name="IncorrectDirectiveUsage" xml:space="preserve">
+    <value>Некорректное использование директивы</value>
+  </data>
+  <data name="IncorrectLabelInMacro" xml:space="preserve">
+    <value>Некорректное задание метки в макросе</value>
+  </data>
+  <data name="IncorrectMacroCallParamsCount" xml:space="preserve">
+    <value>Количество параметров вызова макроса некорректно</value>
+  </data>
+  <data name="IncorrectMacroParamsCall" xml:space="preserve">
+    <value>Параметры вызова макроса заданы некорректно</value>
+  </data>
+  <data name="LabelsInLoop" xml:space="preserve">
+    <value>Использование меток в цикле запрещено</value>
+  </data>
+  <data name="MacroDefinitionInLoop" xml:space="preserve">
+    <value>Объявление макросов в цикле запрещено</value>
+  </data>
+  <data name="VariablesInLoop" xml:space="preserve">
+    <value>Объявление переменных в цикле запрещено</value>
+  </data>
+  <data name="DuplicateMacroParamName" xml:space="preserve">
+    <value>Имя параметра повторяется</value>
+  </data>
+  <data name="IncorrectMacroParamName" xml:space="preserve">
+    <value>Имя параметра некорректно</value>
+  </data>
+  <data name="MacroCallInMacros" xml:space="preserve">
+    <value>Макровызовы внутри макроса запрещены</value>
+  </data>
+  <data name="MacroParamInAnotherMacro" xml:space="preserve">
+    <value>Имя параметра уже используется в другом макросе</value>
+  </data>
+  <data name="MacroMustNotHaveParams" xml:space="preserve">
+    <value>У макроса не должно быть параметров</value>
+  </data>
+  <data name="IncorrectMacroDefinitionParameter" xml:space="preserve">
+    <value>Параметр {0} макроопределения определен некорректно.</value>
+  </data>
+  <data name="IncorrectMacroDefinitionParameterDefault" xml:space="preserve">
+    <value>Значение по умолчанию для параметра {0} макроопределения определено некорректно.</value>
+  </data>
+  <data name="IncorrectMacroDefinitionParameters" xml:space="preserve">
+    <value>Параметры макроопределения {0} определены некорректно.</value>
+  </data>
+  <data name="IncorrectMacroParameterName" xml:space="preserve">
+    <value>Имя параметра {0} некорректно</value>
+  </data>
+  <data name="IncorrectMacroParameterType" xml:space="preserve">
+    <value>Параметр {0} не является ключевым</value>
+  </data>
+  <data name="IncorrectMacroParameterValue" xml:space="preserve">
+    <value>Параметр {0} имеет некорректное значение</value>
+  </data>
+  <data name="MacroParameterDublicate" xml:space="preserve">
+    <value>Имя параметра {0} дублируется</value>
+  </data>
+  <data name="MacroParameterIsEmptyVariable" xml:space="preserve">
+    <value>Параметр {0} - переменная без значения</value>
+  </data>
+  <data name="DublicateMacroCallParameter" xml:space="preserve">
+    <value>Параметр {0} повторяется</value>
+  </data>
+  <data name="IcorrectMacroCallKeyParameter" xml:space="preserve">
+    <value>Параметры вызова макроса {0} определены некорректно. Разделители между '=', названием и значением параметра недопустимы. Параметр {1}</value>
+  </data>
+  <data name="IncorrectMacroCallParameters" xml:space="preserve">
+    <value>Макрос {0} вызван с некорректными параметрами</value>
+  </data>
+  <data name="IncorrectMacroCallParametersCount" xml:space="preserve">
+    <value>Для макроса {0} нужно ввести {2} параметров, а введено: {1}</value>
+  </data>
+  <data name="ParameterDoesNotExists" xml:space="preserve">
+    <value>Параметра {0} не существует в макросе</value>
+  </data>
+</root>

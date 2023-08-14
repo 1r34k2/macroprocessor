@@ -1,0 +1,11 @@
+prog1  start 100
+
+mac macro a b= c=
+add a b
+add b c
+loadr1
+mend
+
+mac 1 b=2 c=3
+
+end
